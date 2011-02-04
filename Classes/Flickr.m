@@ -463,7 +463,7 @@
 	
 	NSURL *assetURL = [data objectForKey:@"Asset"];
 	
-	// get the meta data for the saved image using the Assets Library
+	// get the image data using the Assets Library
 	ALAssetsLibraryAssetForURLResultBlock resultBlock = 
 		^(ALAsset *asset) {
 			ALAssetRepresentation *representation = [asset defaultRepresentation];
