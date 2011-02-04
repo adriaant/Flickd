@@ -5,4 +5,9 @@
  * To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or 
  * send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
  */
- 
+
+The code in this repository is the source code for Flickd, which is available on App Store at the url:
+http://itunes.apple.com/app/flickd/id305580150?mt=8
+
+To compile, you need the latest XCode with iOS 4.2 support. 
+Rename APIKeys_SAMPLE.h to APIKeys.h and enter your own Flickr and Twitter API keys. 
