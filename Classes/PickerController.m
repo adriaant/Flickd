@@ -21,6 +21,7 @@
 	if ((self = [super init])) {
 		[self setDelegate:del];
 		self.allowsEditing = NO;
+		self.wantsFullScreenLayout = YES;
 		[[NSBundle mainBundle] loadNibNamed:@"Overlay" owner:self options:nil];
 		if (![UIImagePickerController isCameraDeviceAvailable:UIImagePickerControllerCameraDeviceFront]) {
 			self.deviceButton.enabled = NO;
@@ -36,12 +37,14 @@
 	if (self.sourceType == UIImagePickerControllerSourceTypeCamera) {
 		self.showsCameraControls = NO;
 		if (self.cameraOverlayView != self.customBar) {
-			CGRect screenFrame = self.view.bounds;
-			CGRect newFrame = self.customBar.frame;
-			newFrame.origin.y = screenFrame.origin.y + screenFrame.size.height - newFrame.size.height - 9.0;
-			newFrame.size.height += 9.0;
-			self.customBar.frame = newFrame;
+			CGRect newFrame, toolFrame, screenFrame = self.view.bounds;
+			
+			toolFrame = self.customBar.frame;
 			self.cameraOverlayView = self.customBar;
+			newFrame = self.cameraOverlayView.frame;
+			newFrame.size.height = toolFrame.size.height + 9.0;
+			newFrame.origin.y = screenFrame.origin.y + screenFrame.size.height - newFrame.size.height - 9.0;
+			self.cameraOverlayView.frame = newFrame;
 		}
 		if (self.cameraDevice == UIImagePickerControllerCameraDeviceRear) {
 			self.deviceButton.image = [UIImage imageNamed:@"user"];
@@ -55,9 +58,9 @@
  * View is being shown. Activate camera button and hide status bar.
  */
 - (void)viewWillAppear:(BOOL)animated {
+	[super viewWillAppear:animated];
 	[self addCustomOverlay];
 	cameraButton.enabled = YES;
-	[super viewWillAppear:animated];
 	[[UIApplication sharedApplication] setStatusBarHidden:(self.sourceType == UIImagePickerControllerSourceTypeCamera) withAnimation:UIStatusBarAnimationFade];
 }
 

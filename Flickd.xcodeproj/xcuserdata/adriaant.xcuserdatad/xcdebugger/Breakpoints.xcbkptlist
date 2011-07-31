@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "1.0">
+   <FileBreakpoints>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "Classes/Flickr.m"
+         timestampString = "318087970.874449"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "1"
+         endingLineNumber = "1">
+         <Locations>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[Flickr delegate]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/Flickr.m"
+               timestampString = "333840681.371109"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[Flickr setDelegate:]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/Flickr.m"
+               timestampString = "333840681.371361"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+         </Locations>
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "Classes/Flickr.m"
+         timestampString = "318087970.892651"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "1"
+         endingLineNumber = "1">
+         <Locations>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[Flickr delegate]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/Flickr.m"
+               timestampString = "333840681.37719"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[Flickr setDelegate:]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/Flickr.m"
+               timestampString = "333840681.379228"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+         </Locations>
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "Classes/Flickr.m"
+         timestampString = "318087970.938939"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "1"
+         endingLineNumber = "1">
+         <Locations>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[Flickr delegate]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/Flickr.m"
+               timestampString = "333840681.392634"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[Flickr setDelegate:]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/Flickr.m"
+               timestampString = "333840681.392865"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+         </Locations>
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "Classes/Flickr.m"
+         timestampString = "318087970.955513"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "1"
+         endingLineNumber = "1">
+         <Locations>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[Flickr delegate]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/Flickr.m"
+               timestampString = "333840681.39712"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[Flickr setDelegate:]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/Flickr.m"
+               timestampString = "333840681.397492"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+         </Locations>
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "Classes/Flickr.m"
+         timestampString = "318087970.99632"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "1"
+         endingLineNumber = "1">
+         <Locations>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[Flickr delegate]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/Flickr.m"
+               timestampString = "333840681.401508"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[Flickr setDelegate:]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/Flickr.m"
+               timestampString = "333840681.401789"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+         </Locations>
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "Classes/Flickr.m"
+         timestampString = "318087971.013941"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "1"
+         endingLineNumber = "1">
+         <Locations>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[Flickr delegate]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/Flickr.m"
+               timestampString = "333840681.408751"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[Flickr setDelegate:]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/Flickr.m"
+               timestampString = "333840681.409139"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+         </Locations>
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "Classes/MediaController.m"
+         timestampString = "318087971.060967"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "1"
+         endingLineNumber = "1">
+         <Locations>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[MediaController mediaProperties]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/MediaController.m"
+               timestampString = "333840681.41944"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[MediaController setMediaProperties:]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/MediaController.m"
+               timestampString = "333840681.419806"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[MediaController capturedVideo]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/MediaController.m"
+               timestampString = "333840681.420073"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[MediaController setCapturedVideo:]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/MediaController.m"
+               timestampString = "333840681.420225"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[MediaController capturedPhoto]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/MediaController.m"
+               timestampString = "333840681.420487"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[MediaController setCapturedPhoto:]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/MediaController.m"
+               timestampString = "333840681.420777"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[MediaController assetURL]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/MediaController.m"
+               timestampString = "333840681.437177"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[MediaController setAssetURL:]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/MediaController.m"
+               timestampString = "333840681.437589"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+         </Locations>
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "Classes/MediaController.m"
+         timestampString = "318087971.086866"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "1"
+         endingLineNumber = "1">
+         <Locations>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[MediaController mediaProperties]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/MediaController.m"
+               timestampString = "333840681.467118"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[MediaController setMediaProperties:]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/MediaController.m"
+               timestampString = "333840681.467492"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[MediaController capturedVideo]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/MediaController.m"
+               timestampString = "333840681.467752"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[MediaController setCapturedVideo:]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/MediaController.m"
+               timestampString = "333840681.468019"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[MediaController capturedPhoto]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/MediaController.m"
+               timestampString = "333840681.468278"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[MediaController setCapturedPhoto:]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/MediaController.m"
+               timestampString = "333840681.468525"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[MediaController assetURL]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/MediaController.m"
+               timestampString = "333840681.468757"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "-[MediaController setAssetURL:]"
+               urlString = "file://localhost/Users/adriaant/CodeBox/Flickd/Classes/MediaController.m"
+               timestampString = "333840681.469004"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "36"
+               endingLineNumber = "36">
+            </Location>
+         </Locations>
+      </FileBreakpoint>
+   </FileBreakpoints>
+</Bucket>
